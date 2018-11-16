@@ -21,7 +21,7 @@ Instale a biblioteca NLTK:
 Use o intrpretador interativo do python para baixar bibliotecas adicionais do nltk:
 
  - python
- - >>>import nltk
+ - \>\>\>import nltk
  - >>>nltk.download('punkt')
  - >>>nltk.download(‘averaged_perceptron_tagger’)
  - >>>nltk.download(‘wordnet’)
