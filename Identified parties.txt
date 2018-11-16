@@ -1,0 +1,97 @@
+Original,StanfordCoreNLP
+Contract: data/conflicting_contracts/Daniele-26_06_2015-22:04:25/usfoodservice.distrib.2003.01.27.shtml
+Party names: U.S. Foodservice Inc. d/b/a U.S. Foodservice TM Delaware corporation principal place business Patuxent Woods Drive Columbia MD own behalf;U.S. Foodservice , Inc. U.S. Foodservice
+Party nicknames TM ; TM 
+Party names: behalf hereinafter USF Rubio Restaurant Inc. California corporation principal place business Wright Place Suite Carlsbad CA hereinafter Rubio Customer;Inc.
+Party nicknames ,  USF  ; ,  USF  
+
+Contract: data/conflicting_contracts/Daniele-26_06_2015-22:15:34/cardinal.mfg.2004.02.13.shtml
+Party names: Cardinal Health;Cardinal Health
+Party nicknames  Cardinal Health  ;  Cardinal Health  
+Party names: Ligand Pharmaceuticals Inc. principal place business Science Center Drive San Diego California USA Ligand;Ligand Pharmaceuticals , Inc.
+Party nicknames  Ligand  ;  Ligand  
+
+Contract: data/conflicting_contracts/Chang-03_07_2015-15:49:42/aortech.mfg.1998.12.23.shtml
+Party names: NOVOSTE B.V. Dillenburgstraat AM Eindhoven Netherlands hereinafter Novoste B.V.;NOVOSTE Novoste B.V.
+Party nicknames referredas  Novoste B.V.  ; referredas  Novoste B.V.  
+Party names: AORTECH EUROPE LIMITED Incorporated Companies registered office Phoenix Crescent Strathclyde Business Park Bellshill Lanarkshire ML4 Scotland Hereinafter referred AorTech WHEREAS Novoste Corporation Product hereinafter related intellectual property technology subsidiary Novoste B.V. Novoste B.V. AorTech Product WHEREAS AorTech Product NOW THEREFORE GENERAL UNDERSTANDING purpose agreement Product AorTech request Novoste B.V. term forth Agreement Novoste B.V. AorTech European manufacturer;AORTECH EUROPE LIMITED Incorporated Phoenix Crescent Strathclyde Business Park Bellshill Lanarkshire Novoste Corporation Novoste B.V. Novoste B.V. AorTech AorTech AorTech Novoste B.V. Novoste B.V. AorTech
+Party nicknames referredas  AorTech  ; referredas  AorTech  
+
+Contract: data/conflicting_contracts/Zhang-03_07_2015-16:37:10/cinram.mfg.1999.11.04.shtml
+Party names: MP3.COM INC. Delaware corporation quot MP3.com quot;MP3.COM INC. Delaware corporation quot MP3.com quot
+Party nicknames  MP3.com  ;  MP3.com  
+Party names: CINRAM INC. Delaware corporation quot Cinram quot;CINRAM Cinram
+Party nicknames  Cinram  ;  Cinram  
+
+Contract: data/conflicting_contracts/Zhang-03_07_2015-16:31:40/cypress-mfg-2005-10-06.shtml
+Party names: EntreMed Inc. Delaware corporation quot Sponsor quot principal place business Medical Center Drive Rockville MD;EntreMed Inc.
+Party nicknames  Sponsor  ;  Sponsor  
+Party names: Covance Biotechnology Inc. Delaware Corporation quot CBSI quot principal place business George Watts Hill Drive P. O;Covance Biotechnology Services Inc. Delaware Corporation CBSI
+Party nicknames  CBSI  ;  CBSI  
+
+Contract: data/conflicting_contracts/Chang-03_07_2015-15:32:51/hershey.mfg.1998.03.13.shtml
+Party names: Hershey Corporation Delaware corporation address E. Chocolate Avenue Hershey PA Hershey hereinafter Hershey;Hershey Foods Corporation
+Party nicknames  Hershey  ;  Hershey  
+Party names: Topps Company Inc. Delaware corporation Whitehall Street New York NY hereinafter Topps;Topps Company , Inc.
+Party nicknames  Topps  ;  Topps  
+
+Contract: data/conflicting_contracts/Chang-03_07_2015-15:43:04/astrazeneca-manufacturing-2006-06-28.shtml
+Party names: Weight International Inc. Virginia corporation principal Crossways Park West Woodbury New York WWI;Weight Watchers International , Inc.
+Party nicknames  WWI  ;  WWI  
+Party names: Nellson Nutraceutical Inc. Delaware corporation principal Ayala Avenue Irwindale California CoPacker;Nellson Nutraceutical , Inc. Irwindale
+Party nicknames  CoPacker  ;  CoPacker  
+
+Contract: data/conflicting_contracts/Dani6-23_06_2015-00:33:31/roth-mfg-2006-11-26.shtml
+Party names: Hansen Beverage Company Delaware corporation principal place business Railroad Street Corona CA Purchaser;Hansen Beverage Company
+Party nicknames  Purchaser  ;  Purchaser  
+Party names: SevenUp/RC Bottling Company Southern California Inc. Delaware corporation principal place business East St. Los Angeles CA;SevenUp/RC Bottling Company of Southern California , Inc.
+Party nicknames  7UP/RC  ;  7UP/RC  
+
+Contract: data/conflicting_contracts/Zhang-03_07_2015-16:51:05/dsm-capua.mfg.2000.06.22.shtml
+Party names: DSM Capua S.p.A. Italian company registered address Strada Statale Appia Capua Italy DSM;DSM Capua S.p.A. Strada Statale Appia
+Party nicknames DSM ; DSM 
+Party names: Cubist Pharmaceuticals Inc. Delaware corporation registered address Emily Street Cambridge MA USA CUBIST;Cubist Pharmaceuticals , Inc. Emily Street
+Party nicknames CUBIST ; CUBIST 
+
+Contract: data/conflicting_contracts/Dani5-23_06_2015-00:06:11/ibm.mfg.1999.04.15.shtml
+Party names: International Business Corporation BUYER;International Business Machines Corporation
+Party nicknames  BUYER  ;  BUYER  
+Party names: Brocade Communications Systems;Brocade Communications Systems
+Party nicknames  SUPPLIER  ;  SUPPLIER  
+
+Contract: data/conflicting_contracts/Daniele-26_06_2015-21:52:16/medica.mfg.2003.05.12.shtml
+Party names: NEPHROS INC. Delaware corporation Nephros;NEPHROS INC. Delaware corporation
+Party nicknames  Nephros  ;  Nephros  
+Party names: MEDICA s.r.l. Italian company Medica;MEDICA s.r.l. company Medica
+Party nicknames  Medica  ;  Medica  
+
+Contract: data/conflicting_contracts/Dani8-23_06_2015-00:49:18/nellson.supply.2001.09.13.shtml
+Party names: Weight International Inc. Virginia corporation principal Crossways Park West Woodbury New York WWI;Weight Watchers International , Inc.
+Party nicknames  WWI  ;  WWI  
+Party names: Nellson Nutraceutical Inc. Delaware corporation principal Ayala Avenue Irwindale California CoPacker;Nellson Nutraceutical , Inc. Irwindale
+Party nicknames  CoPacker  ;  CoPacker  
+
+Contract: data/conflicting_contracts/Dani3-22_06_2015-23:46:24/chiron.mfg.2003.10.02.shtml
+Party names: CHIRON HEALTHCARE IRELAND LTD company Ireland United Drug House Belgard Road Tallaght Dublin Ireland CHIRON;CHIRON HEALTHCARE IRELAND LTD United Drug House
+Party nicknames  CHIRON  ;  CHIRON  
+Party names: CUBIST PHARMACEUTICALS INC. Delaware corporation principal Hayden Avenue Lexington MA CUBIST;CUBIST PHARMACEUTICALS INC. Delaware corporation Hayden Avenue Lexington MA CUBIST
+Party nicknames  CUBIST  ;  CUBIST  
+
+Contract: data/conflicting_contracts/Dani7-23_06_2015-00:38:41/johnson.mfg.2000.06.01.shtml
+Party names: Johnson Matthey Inc. office Nolte Drive West Deptford NJ JMI;Johnson Matthey Inc.
+Party nicknames  JMI  ;  JMI  
+Party names: Celgene;Celgene
+Party nicknames  Celgene  ;  Celgene  
+
+Contract: data/conflicting_contracts/Dani8-23_06_2015-00:42:38/southeast.mfg.2004.07.24.shtml
+Party names: SOUTHEAST ATLANTIC BEVERAGE CORPORATION corporation State Florida office Bowdendale Avenue Jacksonville Florida hereinafter Company;SOUTHEAST ATLANTIC BEVERAGE CORPORATION corporation State Florida office Bowdendale Avenue Jacksonville Florida hereinafter Company
+Party nicknames called the  Company  ; called the  Company  
+Party names: Hansen Beverage Company corporation State Delaware office Railroad Street Corona California hereinafter Customer;Hansen Beverage Company
+Party nicknames called the  Customer  ; called the  Customer  
+
+Contract: data/conflicting_contracts/Daniele-26_06_2015-22:09:43/foamtec.mfg.1998.01.30.shtml
+Party names: Advanced Materials Foreign Corporation Ltd. Bermuda corporation AMFS;Advanced Materials Foreign Sales Corporation Ltd.
+Party nicknames  AMFS  ;  AMFS  
+Party names: Foamtec Singapore Pte Ltd. Singapore private limited company Foamtec;Pte Ltd.
+Party nicknames Singapore ; Singapore 
+
