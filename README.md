@@ -4,7 +4,7 @@ Repositório de contribuição sobre o trabalho original Norm Conflict Identific
 
 [Repositório da pesquisa original](https://github.com/JoaoPauloAires/potential-conflict-identifier)
 
-O artigo que descreve esta contribuiçã pode ser lido no pdf Conflitos_em_Contratos_Contrib.pdf constante neste repositório
+O artigo que descreve esta contribuição pode ser lido no pdf Conflitos_em_Contratos_Contrib.pdf constante neste repositório
 
 ## Instalações necessárias
 
@@ -18,7 +18,7 @@ Instale a biblioteca NLTK:
 
  - pip install nltk
 
-Use o intrpretador interativo do python para baixar bibliotecas adicionais do nltk:
+Use o interpretador interativo do python para baixar bibliotecas adicionais do nltk:
 
  - ```python```
  - ```>>>import nltk```
