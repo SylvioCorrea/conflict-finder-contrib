@@ -4,7 +4,11 @@ Repositório de contribuição sobre o trabalho original Norm Conflict Identific
 
 [Repositório da pesquisa original](https://github.com/JoaoPauloAires/potential-conflict-identifier)
 
-O artigo que descreve esta contribuição pode ser lido no pdf Conflitos_em_Contratos_Contrib.pdf constante neste repositório
+A pesquisa visa a automatizar o descobrimento de conflitos entre normas de um mesmo contrato por meio de técnicas de processamento de linguagem natural.
+
+Esta contribuição altera a maneira como é computada a similaridade semântica entre duas sentenças e como é feito o reconhecimento das partes de um contrato. Para isso, são incorporadas funções das bibliotecas de processamento de linguagem natural sent2vec e StanfordCoreNLP.
+
+O artigo com detalhes e resultados da contribuição pode ser lido no pdf Conflitos_em_Contratos_Contrib.pdf constante neste repositório
 
 ## Instalações necessárias
 
